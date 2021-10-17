@@ -1,0 +1,33 @@
+setAdministrator 230933 Dinesh Erdem
+createLists
+client 1334412 wantsToBuy 859243 withMax $3000
+client 3444421 wantsToBuy 239482 withMax $2100
+client 8733112 wantsToBuy 409348 withMax $3200
+client 8321442 wantsToBuy 859243 withMax $4200
+client 2431142 wantsToBuy 859243 withMax $4900
+client 9822131 wantsToBuy 239482 withMax $4700
+client 4313313 wantsToBuy 192834 withMax $4600
+client 8939317 wantsToBuy 239482 withMax $2700
+client 8728234 wantsToBuy 859243 withMax $3000
+client 9879769 wantsToBuy 239482 withMax $5500
+client 7646456 wantsToBuy 409348 withMax $3900
+client 1334412 wantsToBuy 239482 withMax $4700
+client 3444421 wantsToBuy 192834 withMax $7000
+client 8733112 wantsToBuy 192834 withMax $3500
+client 8321442 wantsToBuy 859243 withMax $4200
+client 2431142 wantsToBuy 409348 withMax $4900
+client 9822131 wantsToBuy 409348 withMax $4700
+client 4313313 wantsToBuy 859243 withMax $4600
+client 8939317 wantsToBuy 239482 withMax $2000
+client 8728234 wantsToBuy 409348 withMax $7200
+client 9879769 wantsToBuy 239482 withMax $510
+client 7646456 wantsToBuy 409348 withMax $3100
+client 8728234 wantsToBuy 739114 withMax $3900
+client 9879769 wantsToBuy 324557 withMax $5600
+client 7646456 wantsToBuy 739114 withMax $300
+client 1334412 wantsToBuy 324557 withMax $4600
+client 3444421 wantsToBuy 739114 withMax $700
+client 8733112 wantsToBuy 192834 withMax $3900
+client 8321442 wantsToBuy 739114 withMax $4200
+client 2431142 wantsToBuy 409348 withMax $4100
+client 9822131 wantsToBuy 739114 withMax $7700
